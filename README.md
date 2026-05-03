@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF4B2B&center=true&vCenter=true&width=650&lines=Hey+I'm+Sandeep+Sharma;Full-Stack+Developer+💻;Automation+Expert+⚡;Open+Source+Lover+❤️;Tech+Explorer+🌍;Building+Cool+Stuff+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF4B2B&center=true&vCenter=true&width=650&lines=Hey+I'm+Sandeep+Sharma;Zefron+🔥❰⎯꯭ ꭗ ꯭𝅥𝆬⧗;Full-Stack+Developer+💻;Automation+Expert+⚡;Open+Source+Lover+❤️;Building+Cool+Stuff+🚀" />
 </p>
 
 <p align="center">
@@ -19,29 +19,30 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 Currently working on **Automation & Bots**  
-- 🌱 Learning **Advanced Backend & Scaling Systems**  
-- ⚡ Love building **cool tools & APIs**  
-- 🧠 Always exploring new tech  
-- 🎯 Goal: Become a **Top Developer + Creator**
+- 🔭 Working on **Automation & Bots**  
+- 🌱 Learning **Scaling + Backend Systems**  
+- ⚡ Building **APIs & Tools**  
+- 🎯 Goal: **Top Dev + Creator**
 
 ---
 
-## 🌐 Connect With Me  
+## 🔥 Identity  
 
 <p align="center">
-  <a href="https://t.me/crush_hu_tera">
-    <img src="https://img.shields.io/badge/Telegram-@crush_hu_tera-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://t.me/zefron">
-    <img src="https://img.shields.io/badge/TG_Name-Zefron-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/itz_sandeep_sharma">
-    <img src="https://img.shields.io/badge/Instagram-itz__sandeep__sharma-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Suraj08832">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-  </a>
+  <img src="https://img.shields.io/badge/Name-Zefron🔥-FF6B00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tag-❰⎯꯭ ꭗ ꯭𝅥𝆬⧗-111?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 Contribution Stats  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Contributions-1312+_last_year-FF4500?style=for-the-badge&logo=github"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj08832&bg_color=0D1117&color=FF6B00&line=00F5FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -51,18 +52,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Suraj08832&show_icons=true&theme=tokyonight&border_radius=20" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj08832&theme=tokyonight&border_radius=20" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj08832&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
----
-
-## 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj08832&bg_color=0D1117&color=FF6B00&line=00F5FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -75,37 +64,51 @@
 
 ---
 
-## 🧰 Tools & Platforms  
+## 🌐 Connect With Me  
 
-- 🐳 Docker  
-- ☁️ Cloudflare / VPS  
-- 🔧 Git & GitHub  
-- ⚙️ Linux Servers  
-- 🤖 Bot Development  
+<p align="center">
+  <a href="https://t.me/crush_hu_tera">
+    <img src="https://img.shields.io/badge/Telegram-@crush_hu_tera-2CA5E0?style=for-the-badge&logo=telegram"/>
+  </a>
+  <a href="https://instagram.com/itz_sandeep_sharma">
+    <img src="https://img.shields.io/badge/Instagram-itz__sandeep__sharma-E4405F?style=for-the-badge&logo=instagram"/>
+  </a>
+  <a href="https://github.com/Suraj08832">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+## 👁️ Profile Views  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Suraj08832&label=Profile+Views&color=FF6B00&style=for-the-badge" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Suraj08832/Suraj08832/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 🏆 Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suraj08832&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Suraj08832&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-## 🔥 Fun Section  
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-## 💖 Support Me  
+## 💖 Support  
 
 <p align="center">
   <a href="https://t.me/crush_hu_tera">
-    <img src="https://img.shields.io/badge/Support-Me-FF6B00?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Support-Me-FF6B00?style=for-the-badge&logo=telegram"/>
   </a>
 </p>
 
