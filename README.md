@@ -20,9 +20,9 @@
 
 ## 🚀 About Me  
 - 🔭 Working on **Automation & Bots**  
-- 🌱 Learning **Scaling + Backend Systems**  
+- 🌱 Learning **Backend + Scaling Systems**  
 - ⚡ Building **APIs & Tools**  
-- 🎯 Goal: **Top Dev + Creator**
+- 🎯 Goal: **Top Developer + Creator**
 
 ---
 
@@ -35,23 +35,31 @@
 
 ---
 
-## 📊 Contribution Stats  
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Contributions-1312+_last_year-FF4500?style=for-the-badge&logo=github"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Suraj08832&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Suraj08832&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj08832&bg_color=0D1117&color=FF6B00&line=00F5FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj08832&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📈 Contribution Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suraj08832&show_icons=true&theme=tokyonight&border_radius=20" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj08832&theme=tokyonight&border_radius=20" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj08832&theme=react-dark&bg_color=0D1117&hide_border=true&line=FF6B00&point=FFFFFF&area=true" width="100%"/>
+</p>
+
+---
+
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Suraj08832&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -92,14 +100,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Suraj08832/Suraj08832/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🏆 Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suraj08832&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 ---
