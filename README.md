@@ -35,6 +35,18 @@
 
 ---
 
+## 📊 Contribution Overview  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Contributions-1312+-brightgreen?style=for-the-badge&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj08832&theme=react-dark&bg_color=0D1117&hide_border=true&line=00FFAA&point=FFFFFF&area=true" width="100%" />
+</p>
+
+---
+
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -48,10 +60,29 @@
 
 ---
 
-## 📈 Contribution Activity  
+## 🚀 Top Contributed Repositories  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj08832&theme=react-dark&bg_color=0D1117&hide_border=true&line=FF6B00&point=FFFFFF&area=true" width="100%"/>
+  <a href="https://github.com/Suraj08832/advancedchatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj08832&repo=advancedchatbot&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Suraj08832/surajbot2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj08832&repo=surajbot2&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Suraj08832/webmusic">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj08832&repo=webmusic&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+## 📈 Detailed Activity  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suraj08832&theme=tokyonight" width="90%" />
 </p>
 
 ---
